@@ -23,6 +23,7 @@ I’ll be organizing everything topic-wise so I can track my growth over time.
 ---
 
 ## 💬 Progress Log
+- ✅ 01 Nov 2025 — Learned about Type Casting in Python — implicit and explicit conversions.
 - ✅ 01 Nov 2025 — Learned about different Data Types in Python — int, float, str, bool, list, tuple, dict, set, and NoneType.
 - ✅ 01 Nov 2025 — Learned about Variables in Python — declaration, rules, and data types.
 - ✅ 01 Nov 2025 — Learned how to print messages in Python using print() function.

@@ -23,6 +23,7 @@ I’ll be organizing everything topic-wise so I can track my growth over time.
 ---
 
 ## 💬 Progress Log
+- ✅ 01 Nov 2025 — Learned about Variables in Python — declaration, rules, and data types.
 - ✅ 01 Nov 2025 — Learned how to print messages in Python using print() function.
 - ✅ 01 Nov 2025 — Learned about Variables and Data Types
 - ✅ 1 Nov 2025 — Started my Python journey  

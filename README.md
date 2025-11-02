@@ -23,6 +23,7 @@ I’ll be organizing everything topic-wise so I can track my growth over time.
 ---
 
 ## 💬 Progress Log
+- ✅ 02 Nov 2025 — Done with the Question Practice of Strings
 - ✅ 02 Nov 2025 — Learned about Strings in Python — creation, indexing, slicing, and string methods.
 - ✅ 02 Nov 2025 — Done with question practice of Conditionals(if/elif/else)
 - ✅ 02 Nov 2025 — Learned about Conditional Statements (if, elif, else) and applied them to real-world examples.

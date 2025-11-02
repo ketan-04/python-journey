@@ -23,6 +23,7 @@ I’ll be organizing everything topic-wise so I can track my growth over time.
 ---
 
 ## 💬 Progress Log
+- ✅ 02 Nov 2025 — Done with question practice of Conditionals(if/elif/else)
 - ✅ 02 Nov 2025 — Learned about Conditional Statements (if, elif, else) and applied them to real-world examples.
 - ✅ 01 Nov 2025 — done with question practice of Variables , Data Types and Type Casting
 - ✅ 01 Nov 2025 — Learned about Type Casting in Python — implicit and explicit conversions.

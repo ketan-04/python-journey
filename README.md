@@ -23,6 +23,7 @@ I’ll be organizing everything topic-wise so I can track my growth over time.
 ---
 
 ## 💬 Progress Log
+- ✅ 03 Nov 2025 — Learned about Loops in Python — for loop, while loop, break, and continue.
 - ✅ 02 Nov 2025 — Done with the Question Practice of Strings
 - ✅ 02 Nov 2025 — Learned about Strings in Python — creation, indexing, slicing, and string methods.
 - ✅ 02 Nov 2025 — Done with question practice of Conditionals(if/elif/else)

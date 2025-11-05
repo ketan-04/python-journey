@@ -23,6 +23,7 @@ I’ll be organizing everything topic-wise so I can track my growth over time.
 ---
 
 ## 💬 Progress Log
+- ✅ 05 Nov 2025 — Learned about Lists in Python — creation, slicing, updating, and list methods.
 - ✅ 04 Nov 2025 — done with question practice of while loop
 - ✅ 04 Nov 2025 — 
 - ✅ 03 Nov 2025 — Done with the Question Practice of For Loops

@@ -23,6 +23,7 @@ I’ll be organizing everything topic-wise so I can track my growth over time.
 ---
 
 ## 💬 Progress Log
+- ✅ 06 Nov 2025 — Learned about Sets in Python — properties, operations, and methods.
 - ✅ 05 Nov 2025 — Learned about Tuples in Python — creation, immutability, methods, and unpacking.
 - ✅ 05 Nov 2025 — Learned about Lists in Python — creation, slicing, updating, and list methods.
 - ✅ 04 Nov 2025 — done with question practice of while loop

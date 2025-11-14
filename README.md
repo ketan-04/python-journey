@@ -28,7 +28,6 @@ I’ll be organizing everything topic-wise so I can track my growth over time.
 - ✅ 05 Nov 2025 — Learned about Tuples in Python — creation, immutability, methods, and unpacking.
 - ✅ 05 Nov 2025 — Learned about Lists in Python — creation, slicing, updating, and list methods.
 - ✅ 04 Nov 2025 — done with question practice of while loop
-- ✅ 04 Nov 2025 — 
 - ✅ 03 Nov 2025 — Done with the Question Practice of For Loops
 - ✅ 03 Nov 2025 — Learned about For Loops in Python — for loop, while loop, break, and continue.
 - ✅ 02 Nov 2025 — Done with the Question Practice of Strings

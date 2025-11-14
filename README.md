@@ -23,6 +23,7 @@ I’ll be organizing everything topic-wise so I can track my growth over time.
 ---
 
 ## 💬 Progress Log
+- ✅ 14 Nov 2025 — Learned about Sets — creation, uniqueness, operations, and frozen sets.
 - ✅ 06 Nov 2025 — Learned about Sets in Python — properties, operations, and methods.
 - ✅ 05 Nov 2025 — Learned about Tuples in Python — creation, immutability, methods, and unpacking.
 - ✅ 05 Nov 2025 — Learned about Lists in Python — creation, slicing, updating, and list methods.
